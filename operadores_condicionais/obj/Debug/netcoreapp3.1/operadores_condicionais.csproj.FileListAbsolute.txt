@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\bin\Debug\netcoreapp3.1\operadores_condicionais.exe
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\bin\Debug\netcoreapp3.1\operadores_condicionais.deps.json
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\bin\Debug\netcoreapp3.1\operadores_condicionais.runtimeconfig.json
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\bin\Debug\netcoreapp3.1\operadores_condicionais.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\bin\Debug\netcoreapp3.1\operadores_condicionais.dll
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\bin\Debug\netcoreapp3.1\operadores_condicionais.pdb
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.AssemblyInfo.cs
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.dll
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.pdb
+C:\Users\Admin\source\repos\operadores_condicionais\operadores_condicionais\obj\Debug\netcoreapp3.1\operadores_condicionais.genruntimeconfig.cache
